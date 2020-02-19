@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+* *My texting line*
+* :smile:
+* :+1:
 Use the left arrow to go back!
